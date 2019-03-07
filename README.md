@@ -1,1 +1,5 @@
-This is a readme for the Boris Bikes Exercise
+Welcome to Boris Bikes!  
+
+```script
+ruby boris_bikes.rb
+```
